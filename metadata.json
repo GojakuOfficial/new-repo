@@ -1,0 +1,8 @@
+{
+  "name": "LUMINA CITY — Autonomous Intelligent City Showcase",
+  "description": "An autonomous metropolitan intelligence digital twin and futuristic urban showcase for Lumina City, featuring real-time 3D Three.js city visualization, AI protocols, infrastructure management, and simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
